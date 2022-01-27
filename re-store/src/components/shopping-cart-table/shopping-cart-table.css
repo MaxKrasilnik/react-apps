@@ -1,0 +1,18 @@
+.btn-outline-warning .bi-dash-circle-fill{
+    color: #ffc107;
+}
+
+.btn-outline-warning:hover .bi-dash-circle-fill::before{
+    color: white;
+}
+
+.shopping-cart-table .total{
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+
+.shopping-cart-table button{
+    margin-right: 5px;
+    margin-top: 5px;
+}
